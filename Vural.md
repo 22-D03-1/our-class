@@ -2,12 +2,16 @@
 
 Hallo, ich bin ___Vural___. Ich komme aus der **Türkei**. ich bin `30` jahre alt. Mein Nachname ist *Colak*.
 
+--------
+
 ## Meine Hobbies
 
 1. Fahrad fahren
 2. spazieren gehen
     - besonders in der Natur
 3. Filme oder Serien ansehen
+
+------------
 
 ## Einige Zitate
 >Man soll den Tag nicht von dem Abend loben.
@@ -16,9 +20,13 @@ Hallo, ich bin ___Vural___. Ich komme aus der **Türkei**. ich bin `30` jahre al
 >
 >Ohne Fleiß keine Preis.
 
+------------
+
 
 ## Kommunikation
 [Mein Social-Media-Account](https://www.instagram.com/uzaybilim/ "Dieser Link öffnet in meinem Instagram-Account")
+
+-------
 
 
 ![Editor](https://www.cnet.com/a/img/resize/7aab63f81b995688a8d2c72ce874089ebc250c07/hub/2016/02/01/d155c673-9cbd-49eb-9814-16710fe0e056/unjetpack.jpg?auto=webp&width=768 "Alone in Space")
