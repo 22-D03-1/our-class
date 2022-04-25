@@ -1,1 +1,1 @@
-# Unsere Klasse
+# Unsere Klass
