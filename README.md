@@ -4,8 +4,6 @@
 - [Dominik](Dominik.md)
 - [Muhannad](Muhannad)
 - [Vural](Vural.md)
-<<<<<<< HEAD
 - [Marcel](Marcel.md)
-=======
 - [Leo](leo.md)
->>>>>>> 11f15d642a99280b27cdd37f2ba32f014c75cf62
+
