@@ -1,1 +1,1 @@
-# our-class
+# Unsere Klasse
