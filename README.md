@@ -1,4 +1,5 @@
 # Unsere Klasse stellt sich vor
 
 ## Klassenliste
-[Dominik](Dominik.md)
+- [Dominik](Dominik.md)
+- [Muhannad](Muhannad.md)
