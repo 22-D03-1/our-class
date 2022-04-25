@@ -38,3 +38,8 @@ This isn't a scene from the 2013 Sandra Bullock and George Clooney space thrille
 ```
 
 ![Editor](https://wallpaperaccess.com/full/471795.jpg "Sonnenfinsternis")
+
+
+Klichen Sie Bild:
+
+[![](https://cdn.wccftech.com/wp-content/uploads/2022/04/Twitter-1030x539.jpg)](https://twitter.com/uzayvebilimtr)
