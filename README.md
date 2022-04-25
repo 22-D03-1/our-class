@@ -1,1 +1,1 @@
-# Unsere Klasse
+# Unsere Klasse stellt sich vor
