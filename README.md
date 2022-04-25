@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+#  Unsere Klasse stellt sich vor
+=======
 # Unsere Klasse stellt sich vor
 
 ## Klassenliste
@@ -6,3 +9,5 @@
 - [Vural](Vural.md)
 - [Marcel](Marcel.md)
 - [Leo](leo.md)
+- [Vaso](vaso.md)
+- [Monssif](Monssif.md)
