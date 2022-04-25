@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-#  Unsere Klasse stellt sich vor
-=======
+
 # Unsere Klasse stellt sich vor
+
 
 ## Klassenliste
 - [Dominik](Dominik.md)
@@ -11,3 +10,4 @@
 - [Leo](leo.md)
 - [Vaso](vaso.md)
 - [Monssif](Monssif.md)
+- [yaman](Yaman.md)
