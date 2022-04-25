@@ -19,4 +19,4 @@ Ich bin 37 Jahre Alt. Ich komme aus __Venezuela__.
 1. Fahrrad fahren
 2. Klettern
 
-![Profilbild Marcel](./IMG-7723.jpg "Marcel Jaworski")
+![Profilbild Marcel](./MarcelProfilbild.jpg "Marcel Jaworski")
