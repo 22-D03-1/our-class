@@ -2,7 +2,9 @@
 
 ## Klassenliste
 - [Dominik](Dominik.md)
-- [Muhannad](Muhannad.md)
+- [Muhannad](Muhannad)
 - [Vural](Vural.md)
+- [Marcel](Marcel.md)
 - [Leo](leo.md)
--  [ella](ella.md)
+- [Ella](ella.md)
+
