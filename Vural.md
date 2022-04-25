@@ -36,3 +36,5 @@ Alone in Space
 
 This isn't a scene from the 2013 Sandra Bullock and George Clooney space thriller "Gravity." This is a photo of NASA astronaut Bruce McCandless roaming free in space after leaving the Space Shuttle Challenger. McCandless' adventure in 1984 was made possible by a nitrogen jetpack called the Manned Maneuvering Unit. He maxed out at 320 feet away from the Challenger and made it back safely...
 ```
+
+![Editor](https://wallpaperaccess.com/full/471795.jpg "Sonnenfinsternis")
