@@ -2,19 +2,21 @@
 
 ## Bio
 
-Ich bin 37 Jahre Alt. Ich komme aus Venezuela. 
+Ich bin 37 Jahre Alt. Ich komme aus __Venezuela__. 
 
 -----------
-## Fähigkkeiten
+## Fähigkeiten
 
 - Fotograph
 - Foto -Video Bearbeitung
    - Photoshop
    - Final Cut
-   - Adobe Premiere
+   - *Adobe* Premiere
 - Jonglier
 
 ## Hobys
 
 1. Fahrrad fahren
 2. Klettern
+
+![Profilbild Marcel](./IMG-7723.jpg "Marcel Jaworski")
