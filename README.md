@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 
 # Unsere Klasse stellt sich vor
-
+Mergt euren Pull-Request über GitHub. 
 =======
 
 # Unsere Klasse stellt sich vor
@@ -10,4 +10,4 @@
 
 - [Dominik](Dominik.md)
 - [Muhannad](Muhannad)
-- ##[Monssif](monsssiiiiiiiiiiiiiiif)
+- [Monssif](monsssiiiiiiiiiiiiiiif)
