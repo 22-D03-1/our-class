@@ -23,7 +23,7 @@ Ich habe 2 Kinder.
 <!--Ich wohne in Berlin-->
 
 ```
-Die Türkei  erstreckt sich über den östlichen Zipfel Europas und Vorderasien und hat kulturelle Verbindungen zu den antiken Reichen der Griechen, Perser, Römer, Byzantiner und Osmanen. Im kosmopolitischen Istanbul am Bosporus befinden- sich die berühmte Hagia Sophia mit ihrer hoch aufragenden Kuppel und christlichen Mosaiken, die imposante Blaue Moschee aus dem 17. Jh. und der Topkapı-Palast von 1460, ehemalige Residenz der Sultane. Ankara ist die moderne Hauptstadt der Türkei.
+Die Türkei  erstreckt sich über den östlichen Zipfel Europas und Vorderasien und hat kulturelle Verbindungen zu den antiken Reichen der Griechen, Perser, Römer, Byzantiner und Osmanen. Im kosmopolitischen Istanbul am Bosporus befinden sich die berühmte Hagia Sophia mit ihrer hoch aufragenden Kuppel und christlichen Mosaiken, die imposante Blaue Moschee aus dem 17. Jh. und der Topkapı-Palast von 1460, ehemalige Residenz der Sultane. Ankara ist die moderne Hauptstadt der Türkei.
 ```
 
 Link:
