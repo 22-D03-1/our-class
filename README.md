@@ -1,1 +1,1 @@
-# Wir sind die Bravecoders
+# Unsere Klasse stellt sich vor
