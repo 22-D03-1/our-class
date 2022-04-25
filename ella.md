@@ -1,4 +1,4 @@
-*# Elena Rotari 
+# Elena Rotari 
 
 ## Beschreibung
 
