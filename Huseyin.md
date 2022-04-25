@@ -27,7 +27,7 @@ Die Türkei  erstreckt sich über den östlichen Zipfel Europas und Vorderasien 
 ```
 
 Link:
-[Istanbul](https://tourscanner.com/blog/de/tagesausfluege-von-istanbul/)
+[Istanbul](https://tourscanner.com/blog/de/tagesausfluege-von-istanbul/ "Die schönsten Sehenswürdigkeiten in Istanbul")
 
 Bild:
 ![Editor](https://media.istockphoto.com/photos/bosphorus-bridge-during-the-sunset-istanbul-picture-id514325748)
