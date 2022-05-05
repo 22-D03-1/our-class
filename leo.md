@@ -10,7 +10,7 @@
   - indor wie outdoor
 
 
-Ich bin ein angehender Fullstack Developer und besuche gerade einen Kurs bei der DCI in Berlin.
+Ich bin ein angehender Fullstack Developer und besuche gerade einen Kurs bei der DCI in Berlin. Hi an alle.
 
 
 

@@ -1,11 +1,21 @@
-# Unsere Klasse stellt sich vor
+# Unsere Klasse
 
 ## Klassenliste
+
 - [Dominik](Dominik.md)
 - [Muhannad](Muhannad)
 - [Vural](Vural.md)
-<<<<<<< HEAD
 - [Marcel](Marcel.md)
-=======
 - [Leo](leo.md)
->>>>>>> 11f15d642a99280b27cdd37f2ba32f014c75cf62
+- [Ella](ella.md)
+- [Muhannad](Muhannad.md)
+- [Yaaroub](Yaaroub.md)
+- [Monssif](Mounssif.md)
+- [Vural](Vural.md)
+- [Marcel](Marcel.md)
+- [Leo](leo.md)
+- [Vaso](vaso.md)
+- [yaman](Yaman.md)
+- [Hüseyin](Huseyin.md)
+- [Ammar](Ammar.md)
+- [Zaid](zaid.md)
